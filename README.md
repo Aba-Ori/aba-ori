@@ -17,7 +17,7 @@ Nosso propósito é desenvolver soluções digitais que apoiem o autocuidado, a 
 
 ## 📲 Aplicativos da organização
 
-### 🌀 Orí Diário (TeraCapp)
+### 🌀 Orí Diário (Cafuné app)
 Um diário digital voltado para pessoas com cabelos crespos e cacheados, em acompanhamento com profissionais de terapia capilar.  
 Permite registrar rotinas de cuidados, produtos usados, reações e observações sobre o couro cabeludo — com base em práticas naturais como a fitoterapia.
 
